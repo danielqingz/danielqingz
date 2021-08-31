@@ -12,5 +12,5 @@
 > 
 > <p align='left'>☄️ I am a big fun of Pokemon. </p>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielqingz&layout=compact&show_icons=true&theme=vue" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielqingz&show_icons=true&theme=vue" />
 
