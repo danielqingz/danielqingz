@@ -1,6 +1,6 @@
-<img align="top" src="https://github-readme-stats.vercel.app/api?username=danielqingz&?count_private=true&show_icons=true&theme=vue" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=danielqingz&?count_private=true&show_icons=true&theme=vue" />
 
-<img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielqingz&show_icons=true&theme=vue" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielqingz&show_icons=true&theme=vue" />
 
 <h2> Hi there <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
