@@ -7,7 +7,7 @@
 
 > <p align='left'>🙋‍♂️ I am a Master student at The University of Florida. </p>
 > 
-> <p align='left'>🔭 Working on deep learning for NLP, Machine learning on Spacialtemporal Data.</p>
+> <p align='left'>🔭 Working on deep learning for NLP, Machine learning on Spatio-temporal Data.</p>
 > 
 > <p align='left'>🎮 I enjoy playing games on PS4, PC, Mobile Phone and Switch. </p>
 > 
