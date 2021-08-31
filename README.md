@@ -1,16 +1,14 @@
-### Hi there 👋
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=alphadl&?count_private=true&show_icons=true&theme=vue" />
 
-<!--
-**danielqingz/danielqingz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=alphadl&?count_private=true&show_icons=true&theme=vue" />
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2> Hi there <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+
+> <p align='left'>🙋‍♂️ I am a Master student at The University of Florida. </p>
+> 
+> <p align='left'>🔭 Working on deep learning for NLP, Machine learning on Spacialtemporal Data.</p>
+> 
+> <p align='left'>🎮 I enjoy playing games on PS4, PC, Mobile Phone and Switch. </p>
+> 
+> <p align='left'>☄️ I am a big fun of Pokemon. </p>
