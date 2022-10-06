@@ -3,7 +3,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielqingz&show_icons=true&theme=vue" /> -->
 
 
-<h2> Hi there <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h1> Hi there <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
 
 
 > <p align='left'>🙋‍♂️ I am a PhD student at The University of Florida. </p>
