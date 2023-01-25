@@ -14,3 +14,5 @@
 > <p align='left'>☄️ I am a big fun of Pokemon. </p>
 > 
 > <p align='left'>⛺️ Camping is good but costs a lot. </p>
+
+![Visitor Count](https://profile-counter.glitch.me/danielqingz/count.svg)
